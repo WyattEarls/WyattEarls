@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WyattEarls
 - 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Electrical Engineering
+- 🌱 I’m currently learning Math of Data & Computing
 - 💞️ I’m looking to collaborate on Quantitative Finance or Machine Learning Projects
 - 📫 Reach me at wyatt.earls@my.utsa.edu
 
